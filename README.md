@@ -9,17 +9,14 @@ Due to the distributed nature of serverless computing, it is important to implem
 Some common security measures for serverless applications include:
 
 1. Authentication and Authorization: Implementing proper authentication and authorization protocols to ensure that only authorized users can access the application and its resources.
-
 2. Encryption: Encrypting sensitive data to prevent unauthorized access.
-
 3. Access Control: Limiting access to specific resources to authorized users or roles.
-
 4. Monitoring and Logging: Monitoring and logging activities in the application to detect any security threats and provide audit trails for compliance purposes.
-
 5. Testing: Conducting regular testing to identify and fix security vulnerabilities.
-
 6. Compliance: Ensuring that the application complies with relevant regulations and standards, such as GDPR or HIPAA.
-
 7. Patching and Updates: Keeping the application and its dependencies up to date with the latest security patches and updates.
 
 Overall, serverless security requires a combination of different measures, tools, and best practices to protect the application and its users against security threats.
+
+# OWASP TOP 10:
+https://owasp.org/www-project-top-ten/
