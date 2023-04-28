@@ -20,3 +20,6 @@ Overall, serverless security requires a combination of different measures, tools
 
 # OWASP TOP 10:
 https://owasp.org/www-project-top-ten/
+
+## Secure coding best practices:
+https://github.com/hemantchaurasia/cyber-security/tree/main/secure-code-best-practices
