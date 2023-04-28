@@ -1,6 +1,12 @@
 # cyber-security
 
-# Serverless security:
+## OWASP TOP 10:
+https://owasp.org/www-project-top-ten/
+
+## Secure coding best practices:
+https://github.com/hemantchaurasia/cyber-security/tree/main/secure-code-best-practices
+
+## Serverless security:
 
 Serverless security refers to the security measures taken to protect serverless applications and functions that are hosted and managed by cloud providers. Serverless computing is a model where cloud providers manage the infrastructure and automatically allocate resources as required. In this model, the user only needs to focus on the code and business logic of their application or function.
 
@@ -17,9 +23,3 @@ Some common security measures for serverless applications include:
 7. Patching and Updates: Keeping the application and its dependencies up to date with the latest security patches and updates.
 
 Overall, serverless security requires a combination of different measures, tools, and best practices to protect the application and its users against security threats.
-
-# OWASP TOP 10:
-https://owasp.org/www-project-top-ten/
-
-## Secure coding best practices:
-https://github.com/hemantchaurasia/cyber-security/tree/main/secure-code-best-practices
