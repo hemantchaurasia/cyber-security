@@ -4,7 +4,7 @@
 https://owasp.org/www-project-top-ten/
 
 ## SATS and DAST tools:
-
+https://github.com/hemantchaurasia/cyber-security/blob/main/sats-dast-tools/README.md
 
 ## Secure coding best practices:
 https://github.com/hemantchaurasia/cyber-security/tree/main/secure-code-best-practices
