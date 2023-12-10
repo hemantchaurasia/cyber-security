@@ -25,6 +25,7 @@ Logger esapiLogger = ESAPI.getLogger("YourLoggerName");
 // Instead of using the standard logger, use the ESAPI Logger with proper encoding
 esapiLogger.info("Response Body -> {}", ESAPI.encoder().encodeForHTML(response.body()));
 ```
+ESAPI.encoder().encodeForHTML(response.body()). This ensures that the content of response.body() is properly encoded for HTML, preventing HTML injection attacks in logs.
 
 **Ref:** 
 - https://owasp.org/www-project-enterprise-security-api/
