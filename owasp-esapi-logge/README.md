@@ -13,6 +13,19 @@
 </dependency>
 ```
 
+**Example of how we can use the OWASP ESAPI Logger in Java code:**
+
+```
+import org.owasp.esapi.ESAPI;
+import org.owasp.esapi.Logger;
+
+// Assuming you have an ESAPI Logger instance
+Logger esapiLogger = ESAPI.getLogger("YourLoggerName");
+
+// Instead of using the standard logger, use the ESAPI Logger with proper encoding
+esapiLogger.info("Response Body -> {}", ESAPI.encoder().encodeForHTML(response.body()));
+```
+
 **Ref:** 
 - https://owasp.org/www-project-enterprise-security-api/
 - https://mvnrepository.com/artifact/org.owasp.esapi/esapi/2.2.3.1
