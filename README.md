@@ -1,7 +1,8 @@
 # cyber-security
 
 ## OWASP TOP 10:
-https://owasp.org/www-project-top-ten/
+- Official site: https://owasp.org/www-project-top-ten/
+- My notes: https://github.com/hemantchaurasia/cyber-security/blob/main/owasp-top-10/README.md
 
 ## SATS and DAST tools:
 https://github.com/hemantchaurasia/cyber-security/blob/main/sats-dast-tools/README.md
